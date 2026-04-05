@@ -5,7 +5,7 @@
 
 ---
 
-## From Zero to Agents — 17 Steps
+## From Zero to Hero in Agentic AI — 17 Steps
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ffffff', 'primaryBorderColor': '#000000', 'primaryTextColor': '#000000', 'lineColor': '#000000', 'secondaryColor': '#ffffff', 'tertiaryColor': '#ffffff', 'clusterBkg': '#ffffff', 'clusterBorder': '#000000'}}}%%
