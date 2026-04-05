@@ -35,7 +35,7 @@ flowchart LR
         S7 --> S8 --> S9 --> S10
     end
 
-    subgraph P4[" Phase 4 — Agents · 4 wks "]
+    subgraph P4[" Phase 4 — Agentic AI · 4 wks "]
         direction TB
         S11["11 · What is an Agent?"]
         S12["12 · LangGraph"]
